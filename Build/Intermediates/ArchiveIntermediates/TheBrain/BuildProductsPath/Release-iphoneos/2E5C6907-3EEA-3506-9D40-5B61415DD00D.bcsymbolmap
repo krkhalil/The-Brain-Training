@@ -1,0 +1,446 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController testBrainButtonTouched:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/ViewController.m
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/main.m
+main
+-[CategoryVC viewDidLoad]
+-[CategoryVC ascendingButtonTouched:]
+-[CategoryVC descendingButtonTouched:]
+_OBJC_CLASS_$_CategoryVC
+_OBJC_METACLASS_$_CategoryVC
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/CategoryVC.m
+-[GameVC viewDidLoad]
+-[GameVC timerLabel:]
+-[GameVC b1:]
+-[GameVC b2:]
+-[GameVC b3:]
+-[GameVC b4:]
+-[GameVC b5:]
+-[GameVC b6:]
+-[GameVC b7:]
+-[GameVC b8:]
+-[GameVC b9:]
+-[GameVC b10:]
+-[GameVC b11:]
+-[GameVC b12:]
+-[GameVC b13:]
+-[GameVC b14:]
+-[GameVC b15:]
+-[GameVC b16:]
+-[GameVC b17:]
+-[GameVC b18:]
+-[GameVC b19:]
+-[GameVC b20:]
+-[GameVC b21:]
+-[GameVC b22:]
+-[GameVC b23:]
+-[GameVC b24:]
+-[GameVC b25:]
+-[GameVC b26:]
+-[GameVC b27:]
+-[GameVC b28:]
+-[GameVC b29:]
+-[GameVC b30:]
+-[GameVC b31:]
+-[GameVC b32:]
+-[GameVC b33:]
+-[GameVC b34:]
+-[GameVC b35:]
+-[GameVC b36:]
+-[GameVC b37:]
+-[GameVC b38:]
+-[GameVC b39:]
+-[GameVC b40:]
+-[GameVC refreshButtonTouched:]
+-[GameVC setScreen]
+-[GameVC showFailAlert]
+___23-[GameVC showFailAlert]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[GameVC showPassedAlert]
+___25-[GameVC showPassedAlert]_block_invoke
+___copy_helper_block_.71
+___destroy_helper_block_.72
+-[GameVC shuffle:]
+-[GameVC setArray]
+-[GameVC setButtons]
+-[GameVC timeLabel]
+-[GameVC setTimeLabel:]
+-[GameVC refreshButton]
+-[GameVC setRefreshButton:]
+-[GameVC topLabel]
+-[GameVC setTopLabel:]
+-[GameVC type]
+-[GameVC setType:]
+-[GameVC b1]
+-[GameVC setB1:]
+-[GameVC b2]
+-[GameVC setB2:]
+-[GameVC b3]
+-[GameVC setB3:]
+-[GameVC b4]
+-[GameVC setB4:]
+-[GameVC b5]
+-[GameVC setB5:]
+-[GameVC b6]
+-[GameVC setB6:]
+-[GameVC b7]
+-[GameVC setB7:]
+-[GameVC b8]
+-[GameVC setB8:]
+-[GameVC b9]
+-[GameVC setB9:]
+-[GameVC b10]
+-[GameVC setB10:]
+-[GameVC b11]
+-[GameVC setB11:]
+-[GameVC b12]
+-[GameVC setB12:]
+-[GameVC b13]
+-[GameVC setB13:]
+-[GameVC b14]
+-[GameVC setB14:]
+-[GameVC b15]
+-[GameVC setB15:]
+-[GameVC b16]
+-[GameVC setB16:]
+-[GameVC b17]
+-[GameVC setB17:]
+-[GameVC b18]
+-[GameVC setB18:]
+-[GameVC b19]
+-[GameVC setB19:]
+-[GameVC b20]
+-[GameVC setB20:]
+-[GameVC b21]
+-[GameVC setB21:]
+-[GameVC b22]
+-[GameVC setB22:]
+-[GameVC b23]
+-[GameVC setB23:]
+-[GameVC b24]
+-[GameVC setB24:]
+-[GameVC b25]
+-[GameVC setB25:]
+-[GameVC b26]
+-[GameVC setB26:]
+-[GameVC b27]
+-[GameVC setB27:]
+-[GameVC b28]
+-[GameVC setB28:]
+-[GameVC b29]
+-[GameVC setB29:]
+-[GameVC b30]
+-[GameVC setB30:]
+-[GameVC b31]
+-[GameVC setB31:]
+-[GameVC b32]
+-[GameVC setB32:]
+-[GameVC b33]
+-[GameVC setB33:]
+-[GameVC b34]
+-[GameVC setB34:]
+-[GameVC b35]
+-[GameVC setB35:]
+-[GameVC b36]
+-[GameVC setB36:]
+-[GameVC b37]
+-[GameVC setB37:]
+-[GameVC b38]
+-[GameVC setB38:]
+-[GameVC b39]
+-[GameVC setB39:]
+-[GameVC b40]
+-[GameVC setB40:]
+-[GameVC .cxx_destruct]
+_OBJC_CLASS_$_GameVC
+_OBJC_IVAR_$_GameVC.index
+_OBJC_IVAR_$_GameVC.score
+_OBJC_IVAR_$_GameVC.count
+_OBJC_IVAR_$_GameVC.timer
+_OBJC_IVAR_$_GameVC.t
+_OBJC_IVAR_$_GameVC._timeLabel
+_OBJC_IVAR_$_GameVC._b1
+_OBJC_IVAR_$_GameVC.answer
+_OBJC_IVAR_$_GameVC._b2
+_OBJC_IVAR_$_GameVC._b3
+_OBJC_IVAR_$_GameVC._b4
+_OBJC_IVAR_$_GameVC._b5
+_OBJC_IVAR_$_GameVC._b6
+_OBJC_IVAR_$_GameVC._b7
+_OBJC_IVAR_$_GameVC._b8
+_OBJC_IVAR_$_GameVC._b9
+_OBJC_IVAR_$_GameVC._b10
+_OBJC_IVAR_$_GameVC._b11
+_OBJC_IVAR_$_GameVC._b12
+_OBJC_IVAR_$_GameVC._b13
+_OBJC_IVAR_$_GameVC._b14
+_OBJC_IVAR_$_GameVC._b15
+_OBJC_IVAR_$_GameVC._b16
+_OBJC_IVAR_$_GameVC._b17
+_OBJC_IVAR_$_GameVC._b18
+_OBJC_IVAR_$_GameVC._b19
+_OBJC_IVAR_$_GameVC._b20
+_OBJC_IVAR_$_GameVC._b21
+_OBJC_IVAR_$_GameVC._b22
+_OBJC_IVAR_$_GameVC._b23
+_OBJC_IVAR_$_GameVC._b24
+_OBJC_IVAR_$_GameVC._b25
+_OBJC_IVAR_$_GameVC._b26
+_OBJC_IVAR_$_GameVC._b27
+_OBJC_IVAR_$_GameVC._b28
+_OBJC_IVAR_$_GameVC._b29
+_OBJC_IVAR_$_GameVC._b30
+_OBJC_IVAR_$_GameVC._b31
+_OBJC_IVAR_$_GameVC._b32
+_OBJC_IVAR_$_GameVC._b33
+_OBJC_IVAR_$_GameVC._b34
+_OBJC_IVAR_$_GameVC._b35
+_OBJC_IVAR_$_GameVC._b36
+_OBJC_IVAR_$_GameVC._b37
+_OBJC_IVAR_$_GameVC._b38
+_OBJC_IVAR_$_GameVC._b39
+_OBJC_IVAR_$_GameVC._b40
+_OBJC_IVAR_$_GameVC.randomButton
+_OBJC_IVAR_$_GameVC.dataArray
+_OBJC_IVAR_$_GameVC.letter
+_OBJC_IVAR_$_GameVC._topLabel
+___block_descriptor_tmp
+___block_descriptor_tmp.73
+_OBJC_IVAR_$_GameVC.data
+_OBJC_IVAR_$_GameVC._refreshButton
+_OBJC_IVAR_$_GameVC._type
+_OBJC_METACLASS_$_GameVC
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/GameVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/GameVC.h
+__destroy_helper_block_
+__copy_helper_block_
+__25-[GameVC showPassedAlert]_block_invoke
+__23-[GameVC showFailAlert]_block_invoke
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/AppDelegate.h
+-[Game2VC viewDidLoad]
+-[Game2VC timerLabel:]
+-[Game2VC b1:]
+-[Game2VC b2:]
+-[Game2VC b3:]
+-[Game2VC b4:]
+-[Game2VC b5:]
+-[Game2VC b6:]
+-[Game2VC b7:]
+-[Game2VC b8:]
+-[Game2VC b9:]
+-[Game2VC b10:]
+-[Game2VC b11:]
+-[Game2VC b12:]
+-[Game2VC b13:]
+-[Game2VC b14:]
+-[Game2VC b15:]
+-[Game2VC b16:]
+-[Game2VC b17:]
+-[Game2VC b18:]
+-[Game2VC b19:]
+-[Game2VC b20:]
+-[Game2VC b21:]
+-[Game2VC b22:]
+-[Game2VC b23:]
+-[Game2VC b24:]
+-[Game2VC b25:]
+-[Game2VC b26:]
+-[Game2VC b27:]
+-[Game2VC b28:]
+-[Game2VC b29:]
+-[Game2VC b30:]
+-[Game2VC b31:]
+-[Game2VC b32:]
+-[Game2VC b33:]
+-[Game2VC b34:]
+-[Game2VC b35:]
+-[Game2VC b36:]
+-[Game2VC b37:]
+-[Game2VC b38:]
+-[Game2VC b39:]
+-[Game2VC b40:]
+-[Game2VC refreshButtonTouched:]
+-[Game2VC setScreen]
+-[Game2VC showFailAlert]
+___24-[Game2VC showFailAlert]_block_invoke
+-[Game2VC showPassedAlert]
+___26-[Game2VC showPassedAlert]_block_invoke
+___copy_helper_block_.86
+___destroy_helper_block_.87
+-[Game2VC shuffle:]
+-[Game2VC setArray]
+-[Game2VC setButtons]
+-[Game2VC timeLabel]
+-[Game2VC setTimeLabel:]
+-[Game2VC refreshButton]
+-[Game2VC setRefreshButton:]
+-[Game2VC topLabel]
+-[Game2VC setTopLabel:]
+-[Game2VC type]
+-[Game2VC setType:]
+-[Game2VC b1]
+-[Game2VC setB1:]
+-[Game2VC b2]
+-[Game2VC setB2:]
+-[Game2VC b3]
+-[Game2VC setB3:]
+-[Game2VC b4]
+-[Game2VC setB4:]
+-[Game2VC b5]
+-[Game2VC setB5:]
+-[Game2VC b6]
+-[Game2VC setB6:]
+-[Game2VC b7]
+-[Game2VC setB7:]
+-[Game2VC b8]
+-[Game2VC setB8:]
+-[Game2VC b9]
+-[Game2VC setB9:]
+-[Game2VC b10]
+-[Game2VC setB10:]
+-[Game2VC b11]
+-[Game2VC setB11:]
+-[Game2VC b12]
+-[Game2VC setB12:]
+-[Game2VC b13]
+-[Game2VC setB13:]
+-[Game2VC b14]
+-[Game2VC setB14:]
+-[Game2VC b15]
+-[Game2VC setB15:]
+-[Game2VC b16]
+-[Game2VC setB16:]
+-[Game2VC b17]
+-[Game2VC setB17:]
+-[Game2VC b18]
+-[Game2VC setB18:]
+-[Game2VC b19]
+-[Game2VC setB19:]
+-[Game2VC b20]
+-[Game2VC setB20:]
+-[Game2VC b21]
+-[Game2VC setB21:]
+-[Game2VC b22]
+-[Game2VC setB22:]
+-[Game2VC b23]
+-[Game2VC setB23:]
+-[Game2VC b24]
+-[Game2VC setB24:]
+-[Game2VC b25]
+-[Game2VC setB25:]
+-[Game2VC b26]
+-[Game2VC setB26:]
+-[Game2VC b27]
+-[Game2VC setB27:]
+-[Game2VC b28]
+-[Game2VC setB28:]
+-[Game2VC b29]
+-[Game2VC setB29:]
+-[Game2VC b30]
+-[Game2VC setB30:]
+-[Game2VC b31]
+-[Game2VC setB31:]
+-[Game2VC b32]
+-[Game2VC setB32:]
+-[Game2VC b33]
+-[Game2VC setB33:]
+-[Game2VC b34]
+-[Game2VC setB34:]
+-[Game2VC b35]
+-[Game2VC setB35:]
+-[Game2VC b36]
+-[Game2VC setB36:]
+-[Game2VC b37]
+-[Game2VC setB37:]
+-[Game2VC b38]
+-[Game2VC setB38:]
+-[Game2VC b39]
+-[Game2VC setB39:]
+-[Game2VC b40]
+-[Game2VC setB40:]
+-[Game2VC .cxx_destruct]
+_OBJC_CLASS_$_Game2VC
+_OBJC_IVAR_$_Game2VC.index
+_OBJC_IVAR_$_Game2VC.score
+_OBJC_IVAR_$_Game2VC.count
+_OBJC_IVAR_$_Game2VC.timer
+_OBJC_IVAR_$_Game2VC.t
+_OBJC_IVAR_$_Game2VC._timeLabel
+_OBJC_IVAR_$_Game2VC._b1
+_OBJC_IVAR_$_Game2VC.answer
+_OBJC_IVAR_$_Game2VC._b2
+_OBJC_IVAR_$_Game2VC._b3
+_OBJC_IVAR_$_Game2VC._b4
+_OBJC_IVAR_$_Game2VC._b5
+_OBJC_IVAR_$_Game2VC._b6
+_OBJC_IVAR_$_Game2VC._b7
+_OBJC_IVAR_$_Game2VC._b8
+_OBJC_IVAR_$_Game2VC._b9
+_OBJC_IVAR_$_Game2VC._b10
+_OBJC_IVAR_$_Game2VC._b11
+_OBJC_IVAR_$_Game2VC._b12
+_OBJC_IVAR_$_Game2VC._b13
+_OBJC_IVAR_$_Game2VC._b14
+_OBJC_IVAR_$_Game2VC._b15
+_OBJC_IVAR_$_Game2VC._b16
+_OBJC_IVAR_$_Game2VC._b17
+_OBJC_IVAR_$_Game2VC._b18
+_OBJC_IVAR_$_Game2VC._b19
+_OBJC_IVAR_$_Game2VC._b20
+_OBJC_IVAR_$_Game2VC._b21
+_OBJC_IVAR_$_Game2VC._b22
+_OBJC_IVAR_$_Game2VC._b23
+_OBJC_IVAR_$_Game2VC._b24
+_OBJC_IVAR_$_Game2VC._b25
+_OBJC_IVAR_$_Game2VC._b26
+_OBJC_IVAR_$_Game2VC._b27
+_OBJC_IVAR_$_Game2VC._b28
+_OBJC_IVAR_$_Game2VC._b29
+_OBJC_IVAR_$_Game2VC._b30
+_OBJC_IVAR_$_Game2VC._b31
+_OBJC_IVAR_$_Game2VC._b32
+_OBJC_IVAR_$_Game2VC._b33
+_OBJC_IVAR_$_Game2VC._b34
+_OBJC_IVAR_$_Game2VC._b35
+_OBJC_IVAR_$_Game2VC._b36
+_OBJC_IVAR_$_Game2VC._b37
+_OBJC_IVAR_$_Game2VC._b38
+_OBJC_IVAR_$_Game2VC._b39
+_OBJC_IVAR_$_Game2VC._b40
+_OBJC_IVAR_$_Game2VC._refreshButton
+_OBJC_IVAR_$_Game2VC.randomButton
+_OBJC_IVAR_$_Game2VC.dataArray
+_OBJC_IVAR_$_Game2VC.letter
+_OBJC_IVAR_$_Game2VC._topLabel
+___block_descriptor_tmp.88
+_OBJC_IVAR_$_Game2VC.data
+_OBJC_IVAR_$_Game2VC._type
+_OBJC_METACLASS_$_Game2VC
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/Game2VC.m
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrainPart2/TheBrain/Game2VC.h
+__26-[Game2VC showPassedAlert]_block_invoke
+__24-[Game2VC showFailAlert]_block_invoke
